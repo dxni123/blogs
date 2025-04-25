@@ -43,8 +43,8 @@ const Create = () => {
           value={author}
           onChange={(e) => setAuthor(e.target.value)}
         >
-          <option value="Chinedu"> chinedu </option>
-          <option value="Dxni"> dxni </option>
+          <option value="Chinedu1"> chinedu </option>
+          <option value="Dxni1"> dxni </option>
         </select>
         <button>Add Blog</button>
       </form>
