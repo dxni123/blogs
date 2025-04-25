@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "npx json-server --watch db.json && node --watch server/app.js",
+    "dev": "nodemon --watch db.json --watch server server/app.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
