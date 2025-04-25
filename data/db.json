@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "How to Start a Blog in 2025",
+      "body": "This guide walks you through the steps of starting your own blog in 2025, from choosing a platform to growing your audience.",
+      "author": "Dxni",
+      "id": "1"
+    },
+    {
+      "title": "Top 10 JavaScript Tips",
+      "body": "Discover 10 practical JavaScript tips that can help you write cleaner, faster, and more maintainable code.",
+      "author": "Chinedu",
+      "id": "2"
+    },
+    {
+      "title": "Why AI Is Changing Everything",
+      "body": "Explore how artificial intelligence is revolutionizing industries from healthcare to education, and what that means for the future.",
+      "author": "Bobby!!!",
+      "id": "3"
+    },
+    {
+      "title": "A Beginner’s Guide to Node.js",
+      "body": "Learn the basics of Node.js, including setting up your first server and understanding the event-driven architecture.",
+      "author": "dxni",
+      "id": "4"
+    },
+    {
+      "id": "a852",
+      "title": "i hate myself",
+      "body": "meaning, function of everything ",
+      "author": "mario"
+    }
+  ]
+}
